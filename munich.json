@@ -75,8 +75,8 @@
                     ]
                 },
                 "description": {
-                	"mode": "replace",
-                	"values": "Toponym after label in the Helsinki Atlas."
+                    "mode": "replace",
+                    "values": "Toponym after label in the Helsinki Atlas."
                 },
                 "references": {
                     "mode": "replace",
@@ -86,6 +86,12 @@
                             "short_title": "Helsinki Atlas",
                             "citation_detail": "p. 12, map 8 grid B1"
                         }
+                    ]
+                },
+                "tags": {
+                    "mode": "append",
+                    "values": [
+                        "ANE"
                     ]
                 }
             }
