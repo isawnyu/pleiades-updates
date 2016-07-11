@@ -1,0 +1,94 @@
+{
+    "updates": [
+        {
+            "places/190803325": {
+                "description": {
+                    "mode": "replace",
+                    "values": [
+                        "A settlement mentioned in Neo-Assyrian sources; the modern site is Ḫān Šayḫūn."
+                    ]
+                },
+                "references": {
+                    "mode": "replace",
+                    "values": [
+                        {
+                            "bibliographic_uri": "http://www.worldcat.org/oclc/48052180",
+                            "short_title": "Helsinki Atlas",
+                            "citation_detail": "p. 12, map 8 grid B1"
+                        }
+                    ]
+                },
+                "provenance": {
+                    "mode": "replace",
+                    "values": [
+                        "Pleiades"
+                    ]
+                },
+                "tags": {
+                    "mode": "append",
+                    "values": [
+                        "ANE"
+                    ]
+                }
+            }
+        },
+        {
+            "/places/190803325/ashani": {
+                "id": {
+                    "mode": "replace",
+                    "values": [
+                        "helsinki-atlas-location"
+                    ]
+                },
+                "title": {
+                    "mode": "replace",
+                    "values": [
+                        "Helsinki Atlas Location"
+                    ]
+                },
+                "description": {
+                    "mode": "replace",
+                    "values": [
+                        "Representative point location according to the Helsinki Atlas of the Near East in the Neo Assyrian Period. Coordinates converted from DMS."
+                    ]
+                },
+                "positional_accuracy_assessment": {
+                    "mode": "replace",
+                    "values": [
+                        "/features/metadata/helsinki-atlas"
+                    ]
+                },
+                "tags": {
+                    "mode": "append",
+                    "values": [
+                        "ANE"
+                    ]
+                }
+            }
+        },
+        {
+            "http://pleiades.stoa.org/places/190803325/name.2016-04-07.2518081505": {
+                "id": {
+                    "mode": "replace",
+                    "values": [
+                        "ishanikka"
+                    ]
+                },
+                "description": {
+                	"mode": "replace",
+                	"values": "Toponym after label in the Helsinki Atlas."
+                },
+                "references": {
+                    "mode": "replace",
+                    "values": [
+                        {
+                            "bibliographic_uri": "http://www.worldcat.org/oclc/48052180",
+                            "short_title": "Helsinki Atlas",
+                            "citation_detail": "p. 12, map 8 grid B1"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
