@@ -67,7 +67,7 @@
             }
         },
         {
-            "http://pleiades.stoa.org/places/190803325/name.2016-04-07.2518081505": {
+            "/places/190803325/name.2016-04-07.2518081505": {
                 "id": {
                     "mode": "replace",
                     "values": [
